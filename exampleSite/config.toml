@@ -1,5 +1,5 @@
-baseURL = "localhost"
-title   = "Nevin JC"
+baseURL = "https://example.com"
+title   = "Hello Friend NG"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Nevin JC"
+  name = "Jane Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hey it's me Nevin"
+  homeSubtitle = "Hello Friend NG"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-            "Made with &#10084; by <a href=\"https://github.com/nevinjc">Nevin JC</a>"]
+            "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"]
 
   # Colors for favicons
   #
@@ -152,7 +152,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/nevin_jc"
+    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
@@ -160,15 +160,15 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/nevinjc"
+    url  = "https://github.com/"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://in.linkedin.com/in/nevin-j-chakiath-43b154171"
+    url  = "https://www.linkedin.com/"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://stackoverflow.com/users/16045865/nevinjc"
+    url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
